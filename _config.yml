@@ -25,4 +25,3 @@ defaults:
       path: "books"
     values:
       parent: Books
-      nav_exclude: true
