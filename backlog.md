@@ -1,6 +1,7 @@
 ---
 title: Backlog
 layout: default
+nav_order: 2
 ---
 
 Here is the backlog of things I would like to read or watch:
