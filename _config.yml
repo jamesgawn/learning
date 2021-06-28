@@ -2,6 +2,9 @@ remote_theme: pmarsceill/just-the-docs
 search_enabled: true
 last_edit_timestamp: true
 
+title: Learning Notes
+description: Notes on books, articles, talks that I find useful
+
 plugins:
   - jekyll-seo-tag
   - jekyll-titles-from-headings
