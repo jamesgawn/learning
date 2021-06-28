@@ -2,6 +2,7 @@
 title: Backlog
 layout: page
 sidebar_link: true
+sidebar_sort_order: 2
 ---
 
 Here is the backlog of things I would like to read or watch:
