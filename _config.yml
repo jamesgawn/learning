@@ -19,3 +19,10 @@ titles_from_headings:
 aux_links:
   "Learning Notes on GitHub":
     - "https://github.com/jamesgawn/learning"
+
+defaults:
+  - scope:
+      path: "books"
+    values:
+      parent: Books
+      nav_exclude: true
