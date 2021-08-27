@@ -25,3 +25,5 @@ defaults:
       path: "books"
     values:
       parent: Books
+	  
+color_scheme: dark
