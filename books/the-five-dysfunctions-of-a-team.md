@@ -26,25 +26,24 @@ _I read this book around October 2023_.
 
 ### Absence of trust
 
-* Absence of trust
-    * Description: 
-    * Exercise
+* Team Building / Ice Breakers
+    * Exercise A
+        * Answer 5 questions
+            * Hometown
+            * Number of kids in family
+            * Interesting childhood hobbies
+            * Biggest challenge growing up
+            * First job
+        * What your life was like as a child, but not interested in your inner child. It’s not a therapy session
+    * Exercise B
         * Individual Ideation - 5m
             * Single biggest strength
             * Single biggest weakness
         * Share with group - Xm
-* Team Building / Ice Breakers
-    * Answer 5 questions
-        * Hometown
-        * Number of kids in family
-        * Interesting childhood hobbies
-        * Biggest challenge growing up
-        * First job
-    * What your life was like as a child, but not interested in your inner child. It’s not a therapy session
 
 * Trust is not the same as assuming everyone is on the same page, or that they don’t need to be pushed. Trust is when a team member pushes you, that they’re doing to because they care about the team.
     * Push with respect, assume positive intent
-* Not possible if there isn’t buy in
+    * Doesn't work if there's not buy-in or alignment on the team/organisational goals
 
 ### Fear of conflict
 
