@@ -87,5 +87,5 @@ _I read this book around October 2023_.
 ### Meeting Discipline
 
 * Everyone should have full attention
-    * If the topic strays into information only relevant to a subset of the team, and should be taken offline, call it out rather than disengaging.
-    * A meeting without conflict isn’t worth having… if it’s not engaging everyone it’s failed. They should be an interactive affair. Is this true?
+* If the topic strays into information only relevant to a subset of the team, and should be taken offline, call it out rather than disengaging.
+* A meeting without conflict isn’t worth having… if it’s not engaging everyone it’s failed. They should be an interactive affair. Is this true?
