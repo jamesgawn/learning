@@ -67,7 +67,7 @@ _I read this book around October 2023_.
     * If they get defensive
     * If they are intimidating
 
-### Inattention to results
+### Inattention to results
 
 * Description: team members seeking out individual recognition/attention at expense of collective (team/company) results/goals
 * Method: 
